@@ -9,8 +9,9 @@
 <p><img  src="https://github-readme-stats.vercel.app/api?username=maxd935&show_icons=true&locale=en" alt="maxd935" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=maxd935&" alt="maxd935" /></p>
 </div>
-
+<!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxd935&row=3&column=4&theme=gitdimme&margin-w=15&no-bg=true&no-frame=true" alt="maxd935" /></a> </p>
+-->
 
 📫 How to reach me **maximedaude.dev@gmail.com**
 
