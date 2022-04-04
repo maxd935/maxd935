@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, my name is Maxime</h1>
 <h3 align="center">A passionate student developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxd935&label=Profile%20views&color=0e75b6&style=flat" alt="maxd935" /> </p>
 <!--
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxd935&show_icons=true&locale=en&layout=compact" alt="maxd935" /></p>
 -->
